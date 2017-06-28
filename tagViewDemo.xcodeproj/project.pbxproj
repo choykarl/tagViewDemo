@@ -16,7 +16,7 @@
 		CB6FEDAE1F04093D00C0888D /* TagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA81F04093D00C0888D /* TagCell.swift */; };
 		CB6FEDAF1F04093D00C0888D /* TagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA91F04093D00C0888D /* TagContentView.swift */; };
 		CB6FEDB01F04093D00C0888D /* TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDAA1F04093D00C0888D /* TagView.swift */; };
-		CB6FEDB11F04093D00C0888D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDAB1F04093D00C0888D /* ViewController.swift */; };
+		CB6FEDB31F041E2000C0888D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDB21F041E2000C0888D /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		CB6FEDA81F04093D00C0888D /* TagCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCell.swift; sourceTree = "<group>"; };
 		CB6FEDA91F04093D00C0888D /* TagContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagContentView.swift; sourceTree = "<group>"; };
 		CB6FEDAA1F04093D00C0888D /* TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagView.swift; sourceTree = "<group>"; };
-		CB6FEDAB1F04093D00C0888D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CB6FEDB21F041E2000C0888D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +66,7 @@
 			children = (
 				CB6FEDA51F04093D00C0888D /* tagView */,
 				CB6FED4D1F02C86400C0888D /* AppDelegate.swift */,
+				CB6FEDB21F041E2000C0888D /* ViewController.swift */,
 				CB6FED511F02C86400C0888D /* Main.storyboard */,
 				CB6FED541F02C86400C0888D /* Assets.xcassets */,
 				CB6FED561F02C86400C0888D /* LaunchScreen.storyboard */,
@@ -82,7 +83,6 @@
 				CB6FEDA81F04093D00C0888D /* TagCell.swift */,
 				CB6FEDA91F04093D00C0888D /* TagContentView.swift */,
 				CB6FEDAA1F04093D00C0888D /* TagView.swift */,
-				CB6FEDAB1F04093D00C0888D /* ViewController.swift */,
 			);
 			path = tagView;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 				CB6FEDAD1F04093D00C0888D /* HGVIewKit.swift in Sources */,
 				CB6FEDAC1F04093D00C0888D /* HGStringKit.swift in Sources */,
 				CB6FEDAF1F04093D00C0888D /* TagContentView.swift in Sources */,
-				CB6FEDB11F04093D00C0888D /* ViewController.swift in Sources */,
+				CB6FEDB31F041E2000C0888D /* ViewController.swift in Sources */,
 				CB6FED4E1F02C86400C0888D /* AppDelegate.swift in Sources */,
 				CB6FEDB01F04093D00C0888D /* TagView.swift in Sources */,
 			);
