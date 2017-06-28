@@ -8,30 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		CB6FED4E1F02C86400C0888D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FED4D1F02C86400C0888D /* AppDelegate.swift */; };
-		CB6FED501F02C86400C0888D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FED4F1F02C86400C0888D /* ViewController.swift */; };
 		CB6FED531F02C86400C0888D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB6FED511F02C86400C0888D /* Main.storyboard */; };
 		CB6FED551F02C86400C0888D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB6FED541F02C86400C0888D /* Assets.xcassets */; };
 		CB6FED581F02C86400C0888D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB6FED561F02C86400C0888D /* LaunchScreen.storyboard */; };
-		CB6FED641F02C8CD00C0888D /* HGStringKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FED5F1F02C8CD00C0888D /* HGStringKit.swift */; };
-		CB6FED651F02C8CD00C0888D /* HGVIewKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FED601F02C8CD00C0888D /* HGVIewKit.swift */; };
-		CB6FED661F02C8CD00C0888D /* TagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FED611F02C8CD00C0888D /* TagCell.swift */; };
-		CB6FED671F02C8CD00C0888D /* TagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FED621F02C8CD00C0888D /* TagContentView.swift */; };
-		CB6FED681F02C8CD00C0888D /* TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FED631F02C8CD00C0888D /* TagView.swift */; };
+		CB6FEDAC1F04093D00C0888D /* HGStringKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA61F04093D00C0888D /* HGStringKit.swift */; };
+		CB6FEDAD1F04093D00C0888D /* HGVIewKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA71F04093D00C0888D /* HGVIewKit.swift */; };
+		CB6FEDAE1F04093D00C0888D /* TagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA81F04093D00C0888D /* TagCell.swift */; };
+		CB6FEDAF1F04093D00C0888D /* TagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA91F04093D00C0888D /* TagContentView.swift */; };
+		CB6FEDB01F04093D00C0888D /* TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDAA1F04093D00C0888D /* TagView.swift */; };
+		CB6FEDB11F04093D00C0888D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDAB1F04093D00C0888D /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CB6FED4A1F02C86400C0888D /* tagViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tagViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB6FED4D1F02C86400C0888D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CB6FED4F1F02C86400C0888D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CB6FED521F02C86400C0888D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CB6FED541F02C86400C0888D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB6FED571F02C86400C0888D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB6FED591F02C86400C0888D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB6FED5F1F02C8CD00C0888D /* HGStringKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGStringKit.swift; sourceTree = "<group>"; };
-		CB6FED601F02C8CD00C0888D /* HGVIewKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGVIewKit.swift; sourceTree = "<group>"; };
-		CB6FED611F02C8CD00C0888D /* TagCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCell.swift; sourceTree = "<group>"; };
-		CB6FED621F02C8CD00C0888D /* TagContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagContentView.swift; sourceTree = "<group>"; };
-		CB6FED631F02C8CD00C0888D /* TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagView.swift; sourceTree = "<group>"; };
+		CB6FEDA61F04093D00C0888D /* HGStringKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGStringKit.swift; sourceTree = "<group>"; };
+		CB6FEDA71F04093D00C0888D /* HGVIewKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGVIewKit.swift; sourceTree = "<group>"; };
+		CB6FEDA81F04093D00C0888D /* TagCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCell.swift; sourceTree = "<group>"; };
+		CB6FEDA91F04093D00C0888D /* TagContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagContentView.swift; sourceTree = "<group>"; };
+		CB6FEDAA1F04093D00C0888D /* TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagView.swift; sourceTree = "<group>"; };
+		CB6FEDAB1F04093D00C0888D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,19 +64,27 @@
 		CB6FED4C1F02C86400C0888D /* tagViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				CB6FED5F1F02C8CD00C0888D /* HGStringKit.swift */,
-				CB6FED601F02C8CD00C0888D /* HGVIewKit.swift */,
-				CB6FED611F02C8CD00C0888D /* TagCell.swift */,
-				CB6FED621F02C8CD00C0888D /* TagContentView.swift */,
-				CB6FED631F02C8CD00C0888D /* TagView.swift */,
+				CB6FEDA51F04093D00C0888D /* tagView */,
 				CB6FED4D1F02C86400C0888D /* AppDelegate.swift */,
-				CB6FED4F1F02C86400C0888D /* ViewController.swift */,
 				CB6FED511F02C86400C0888D /* Main.storyboard */,
 				CB6FED541F02C86400C0888D /* Assets.xcassets */,
 				CB6FED561F02C86400C0888D /* LaunchScreen.storyboard */,
 				CB6FED591F02C86400C0888D /* Info.plist */,
 			);
 			path = tagViewDemo;
+			sourceTree = "<group>";
+		};
+		CB6FEDA51F04093D00C0888D /* tagView */ = {
+			isa = PBXGroup;
+			children = (
+				CB6FEDA61F04093D00C0888D /* HGStringKit.swift */,
+				CB6FEDA71F04093D00C0888D /* HGVIewKit.swift */,
+				CB6FEDA81F04093D00C0888D /* TagCell.swift */,
+				CB6FEDA91F04093D00C0888D /* TagContentView.swift */,
+				CB6FEDAA1F04093D00C0888D /* TagView.swift */,
+				CB6FEDAB1F04093D00C0888D /* ViewController.swift */,
+			);
+			path = tagView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,13 +159,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB6FED651F02C8CD00C0888D /* HGVIewKit.swift in Sources */,
-				CB6FED671F02C8CD00C0888D /* TagContentView.swift in Sources */,
-				CB6FED501F02C86400C0888D /* ViewController.swift in Sources */,
-				CB6FED661F02C8CD00C0888D /* TagCell.swift in Sources */,
-				CB6FED681F02C8CD00C0888D /* TagView.swift in Sources */,
-				CB6FED641F02C8CD00C0888D /* HGStringKit.swift in Sources */,
+				CB6FEDAE1F04093D00C0888D /* TagCell.swift in Sources */,
+				CB6FEDAD1F04093D00C0888D /* HGVIewKit.swift in Sources */,
+				CB6FEDAC1F04093D00C0888D /* HGStringKit.swift in Sources */,
+				CB6FEDAF1F04093D00C0888D /* TagContentView.swift in Sources */,
+				CB6FEDB11F04093D00C0888D /* ViewController.swift in Sources */,
 				CB6FED4E1F02C86400C0888D /* AppDelegate.swift in Sources */,
+				CB6FEDB01F04093D00C0888D /* TagView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,6 +329,7 @@
 				CB6FED5E1F02C86400C0888D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
