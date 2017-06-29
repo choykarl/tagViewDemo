@@ -11,12 +11,12 @@
 		CB6FED531F02C86400C0888D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB6FED511F02C86400C0888D /* Main.storyboard */; };
 		CB6FED551F02C86400C0888D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB6FED541F02C86400C0888D /* Assets.xcassets */; };
 		CB6FED581F02C86400C0888D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB6FED561F02C86400C0888D /* LaunchScreen.storyboard */; };
-		CB6FEDAC1F04093D00C0888D /* HGStringKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA61F04093D00C0888D /* HGStringKit.swift */; };
-		CB6FEDAD1F04093D00C0888D /* HGVIewKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA71F04093D00C0888D /* HGVIewKit.swift */; };
-		CB6FEDAE1F04093D00C0888D /* TagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA81F04093D00C0888D /* TagCell.swift */; };
-		CB6FEDAF1F04093D00C0888D /* TagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDA91F04093D00C0888D /* TagContentView.swift */; };
-		CB6FEDB01F04093D00C0888D /* TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDAA1F04093D00C0888D /* TagView.swift */; };
 		CB6FEDB31F041E2000C0888D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEDB21F041E2000C0888D /* ViewController.swift */; };
+		CB6FEE141F0507DE00C0888D /* HGStringKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEE0F1F0507DE00C0888D /* HGStringKit.swift */; };
+		CB6FEE151F0507DE00C0888D /* HGVIewKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEE101F0507DE00C0888D /* HGVIewKit.swift */; };
+		CB6FEE161F0507DE00C0888D /* TagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEE111F0507DE00C0888D /* TagCell.swift */; };
+		CB6FEE171F0507DE00C0888D /* TagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEE121F0507DE00C0888D /* TagContentView.swift */; };
+		CB6FEE181F0507DE00C0888D /* TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB6FEE131F0507DE00C0888D /* TagView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,12 +26,12 @@
 		CB6FED541F02C86400C0888D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB6FED571F02C86400C0888D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB6FED591F02C86400C0888D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CB6FEDA61F04093D00C0888D /* HGStringKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGStringKit.swift; sourceTree = "<group>"; };
-		CB6FEDA71F04093D00C0888D /* HGVIewKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGVIewKit.swift; sourceTree = "<group>"; };
-		CB6FEDA81F04093D00C0888D /* TagCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCell.swift; sourceTree = "<group>"; };
-		CB6FEDA91F04093D00C0888D /* TagContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagContentView.swift; sourceTree = "<group>"; };
-		CB6FEDAA1F04093D00C0888D /* TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagView.swift; sourceTree = "<group>"; };
 		CB6FEDB21F041E2000C0888D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CB6FEE0F1F0507DE00C0888D /* HGStringKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGStringKit.swift; sourceTree = "<group>"; };
+		CB6FEE101F0507DE00C0888D /* HGVIewKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HGVIewKit.swift; sourceTree = "<group>"; };
+		CB6FEE111F0507DE00C0888D /* TagCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCell.swift; sourceTree = "<group>"; };
+		CB6FEE121F0507DE00C0888D /* TagContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagContentView.swift; sourceTree = "<group>"; };
+		CB6FEE131F0507DE00C0888D /* TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 		CB6FED4C1F02C86400C0888D /* tagViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				CB6FEDA51F04093D00C0888D /* tagView */,
+				CB6FEE0E1F0507DE00C0888D /* tagView */,
 				CB6FED4D1F02C86400C0888D /* AppDelegate.swift */,
 				CB6FEDB21F041E2000C0888D /* ViewController.swift */,
 				CB6FED511F02C86400C0888D /* Main.storyboard */,
@@ -75,14 +75,14 @@
 			path = tagViewDemo;
 			sourceTree = "<group>";
 		};
-		CB6FEDA51F04093D00C0888D /* tagView */ = {
+		CB6FEE0E1F0507DE00C0888D /* tagView */ = {
 			isa = PBXGroup;
 			children = (
-				CB6FEDA61F04093D00C0888D /* HGStringKit.swift */,
-				CB6FEDA71F04093D00C0888D /* HGVIewKit.swift */,
-				CB6FEDA81F04093D00C0888D /* TagCell.swift */,
-				CB6FEDA91F04093D00C0888D /* TagContentView.swift */,
-				CB6FEDAA1F04093D00C0888D /* TagView.swift */,
+				CB6FEE0F1F0507DE00C0888D /* HGStringKit.swift */,
+				CB6FEE101F0507DE00C0888D /* HGVIewKit.swift */,
+				CB6FEE111F0507DE00C0888D /* TagCell.swift */,
+				CB6FEE121F0507DE00C0888D /* TagContentView.swift */,
+				CB6FEE131F0507DE00C0888D /* TagView.swift */,
 			);
 			path = tagView;
 			sourceTree = "<group>";
@@ -159,13 +159,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CB6FEDAE1F04093D00C0888D /* TagCell.swift in Sources */,
-				CB6FEDAD1F04093D00C0888D /* HGVIewKit.swift in Sources */,
-				CB6FEDAC1F04093D00C0888D /* HGStringKit.swift in Sources */,
-				CB6FEDAF1F04093D00C0888D /* TagContentView.swift in Sources */,
+				CB6FEE151F0507DE00C0888D /* HGVIewKit.swift in Sources */,
+				CB6FEE171F0507DE00C0888D /* TagContentView.swift in Sources */,
 				CB6FEDB31F041E2000C0888D /* ViewController.swift in Sources */,
+				CB6FEE161F0507DE00C0888D /* TagCell.swift in Sources */,
+				CB6FEE181F0507DE00C0888D /* TagView.swift in Sources */,
+				CB6FEE141F0507DE00C0888D /* HGStringKit.swift in Sources */,
 				CB6FED4E1F02C86400C0888D /* AppDelegate.swift in Sources */,
-				CB6FEDB01F04093D00C0888D /* TagView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
