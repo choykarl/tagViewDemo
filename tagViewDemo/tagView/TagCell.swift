@@ -16,6 +16,7 @@ public class TagCell: UIView {
     let labelText = " " + text + " "
     let labelWidth = labelText.widthForFont(font)
     
+    
     super.init(frame: CGRect(x: 0, y: 0, width: labelWidth, height: font.lineHeight))
     
     backgroundColor = UIColor(red: CGFloat(arc4random_uniform(255)) / 256, green: CGFloat(arc4random_uniform(255)) / 256, blue: CGFloat(arc4random_uniform(255)) / 256, alpha: 1)
