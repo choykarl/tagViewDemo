@@ -6,7 +6,7 @@
 //  Copyright © 2017年 Karl. All rights reserved.
 //
 
-protocol TagContentViewDataSource: class {
+public protocol TagContentViewDataSource: class {
   func imageAndTagViewMargin() -> CGFloat
   func tagCellHorizontalMargin() -> CGFloat
   func tagCellVerticalMargin() -> CGFloat
@@ -14,7 +14,7 @@ protocol TagContentViewDataSource: class {
 
 import UIKit
 
-class TagContentView: UIView {
+public class TagContentView: UIView {
 
   weak var dataSource: TagContentViewDataSource? {
     didSet {
@@ -42,7 +42,7 @@ class TagContentView: UIView {
     setHeight(tagView.bottom)
   }
   
-  required init?(coder aDecoder: NSCoder) {
+  required public init?(coder aDecoder: NSCoder) {
     fatalError("init(coder:) has not been implemented")
   }
 }

@@ -8,7 +8,7 @@
 
 import UIKit
 
-extension String {
+public extension String {
   
   /**
    e.g. "12345"[0] as Character

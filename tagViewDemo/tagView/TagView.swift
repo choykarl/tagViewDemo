@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TagView: UIView {
+public class TagView: UIView {
 
   weak var dataSource: TagContentViewDataSource?
   private weak var lastCell: TagCell?
@@ -34,7 +34,7 @@ class TagView: UIView {
     setHeight(cell.bottom)
   }
 
-  required init?(coder aDecoder: NSCoder) {
+  required public init?(coder aDecoder: NSCoder) {
     fatalError("init(coder:) has not been implemented")
   }
 

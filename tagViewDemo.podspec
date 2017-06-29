@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "tagViewDemo"
-  s.version      = "0.0.2"
+  s.version      = "0.0.4"
   s.ios.deployment_target = '8.0'
   s.summary      = "tagViewDemo."
   s.description  = "详细描述,要长一点,比s.summary这个长长长长长长长长长长"
